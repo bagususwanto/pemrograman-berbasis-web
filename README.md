@@ -9,10 +9,9 @@ Repository ini berisi kumpulan tugas-tugas mata kuliah Pemrograman Berbasis Web.
 Implementasi sistem informasi berbasis web untuk tracking dan transaksi bahan ajar dengan fitur:
 
 - Sistem autentikasi (login)
-- Dashboard interaktif
+- Dashboard menu utama
 - Tracking pengiriman bahan ajar
 - Manajemen stok
-- Pelaporan dan histori transaksi
 
 Teknologi yang digunakan:
 
