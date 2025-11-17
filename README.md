@@ -21,6 +21,22 @@ Teknologi yang digunakan:
 
 [Lihat detail project →](Tugas.1/README.md)
 
+### [Tugas 2 - SISTA (Sistem Informasi Stok & Tracking Ajar) dengan Vue](Tugas.2/)
+
+Implementasi sistem informasi berbasis web untuk manajemen stok dan tracking bahan ajar dengan fitur:
+
+- Menu utama
+- Manajemen stok
+- Tracking pengiriman bahan ajar
+
+Teknologi yang digunakan:
+
+- HTML5
+- CSS3
+- JavaScript (Vue.js)
+
+[Lihat detail project →](Tugas.2/README.md)
+
 ## Pengembang
 
 Dikembangkan oleh [Bagus Uswanto](https://github.com/bagususwanto).

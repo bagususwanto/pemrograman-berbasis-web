@@ -1,4 +1,4 @@
-# Tugas Praktik 1 SITTA – Catatan Pengerjaan
+# Tugas Praktik 1 Pemrograman Berbasis Web – Catatan Pengerjaan
 
 ## Struktur Project
 
